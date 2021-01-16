@@ -159,6 +159,8 @@
   <remove-project name="platform/packages/apps/Settings"/>
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="conquer"/>
 
+  <project path="packages/apps/Features" name="packages_apps_Features" remote="conquer"/>
+
   <remove-project name="platform/packages/apps/SettingsIntelligence"/>
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="conquer"/>
 
